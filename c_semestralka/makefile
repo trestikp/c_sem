@@ -1,15 +1,16 @@
 CC = gcc
+PARAMS = -Wall -g -lm
 
 all: clean run
 
 clean: 
-	rm -f *.o *.gch run.exe
+	rm -f *.txt *.o *.gch gms.exe
 
 generation:
-	${CC} -Wall -g -lm -c generation.c generation.h
+	${CC} ${PARAMS} -c generation.c generation.h
 
 specimen:
-	${CC} -Wall -g -lm -c specimen.c specimen.h
+	${CC} ${PARAMS} -c specimen.c specimen.h
 
 run: generation specimen
-	${CC} -Wall -g -lm -o run main.c generation.o specimen.o
+	${CC} ${PARAMS} -o gms.exe main.c generation.o specimen.o

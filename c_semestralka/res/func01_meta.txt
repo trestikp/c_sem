@@ -1,4 +1,4 @@
-#_func_win.exe
+#_res/func
 
 #_(10,18);R
 a = 10
