@@ -1,0 +1,882 @@
+IS: 1
+Bot: 10.000000
+Top: 18.000000
+Type: R
+------
+IS: 2
+Bot: 0.000000
+Top: 500.000000
+Type: Z
+------
+GENERATION NUMBER: 1
+Specimen 69
+Coef add: 0x561be2f32d40
+Fl coef: 16.213930
+Coef add: 0x561be2f32d48
+Int coef: 374
+Spec. ext: 12.042067
+**********
+Specimen 23
+Coef add: 0x561be2f32780
+Fl coef: 15.888195
+Coef add: 0x561be2f32788
+Int coef: 385
+Spec. ext: 11.468479
+**********
+Specimen 99
+Coef add: 0x561be2f33100
+Fl coef: 16.118320
+Coef add: 0x561be2f33108
+Int coef: 335
+Spec. ext: 11.361029
+**********
+Specimen 100
+Coef add: 0x561be2f33120
+Fl coef: 17.521387
+Coef add: 0x561be2f33128
+Int coef: 363
+Spec. ext: 10.150780
+**********
+Specimen 77
+Coef add: 0x561be2f32e40
+Fl coef: 17.484827
+Coef add: 0x561be2f32e48
+Int coef: 384
+Spec. ext: 9.819706
+**********
+Specimen 36
+Coef add: 0x561be2f32920
+Fl coef: 17.656160
+Coef add: 0x561be2f32928
+Int coef: 392
+Spec. ext: 9.721364
+**********
+Specimen 54
+Coef add: 0x561be2f32b60
+Fl coef: 17.725271
+Coef add: 0x561be2f32b68
+Int coef: 346
+Spec. ext: 9.621638
+**********
+Specimen 70
+Coef add: 0x561be2f32d60
+Fl coef: 14.759459
+Coef add: 0x561be2f32d68
+Int coef: 411
+Spec. ext: 9.570043
+**********
+Specimen 62
+Coef add: 0x561be2f32c60
+Fl coef: 17.599220
+Coef add: 0x561be2f32c68
+Int coef: 397
+Spec. ext: 9.534347
+**********
+Specimen 22
+Coef add: 0x561be2f32760
+Fl coef: 14.457843
+Coef add: 0x561be2f32768
+Int coef: 417
+Spec. ext: 9.493782
+**********
+Specimen 80
+Coef add: 0x561be2f32ea0
+Fl coef: 14.402530
+Coef add: 0x561be2f32ea8
+Int coef: 324
+Spec. ext: 9.489156
+**********
+Specimen 46
+Coef add: 0x561be2f32a60
+Fl coef: 14.970055
+Coef add: 0x561be2f32a68
+Int coef: 350
+Spec. ext: 9.433220
+**********
+Specimen 92
+Coef add: 0x561be2f33020
+Fl coef: 14.602426
+Coef add: 0x561be2f33028
+Int coef: 88
+Spec. ext: 9.198634
+**********
+Specimen 84
+Coef add: 0x561be2f32f20
+Fl coef: 16.396557
+Coef add: 0x561be2f32f28
+Int coef: 101
+Spec. ext: 9.004837
+**********
+Specimen 78
+Coef add: 0x561be2f32e60
+Fl coef: 14.792057
+Coef add: 0x561be2f32e68
+Int coef: 425
+Spec. ext: 8.464688
+**********
+Specimen 59
+Coef add: 0x561be2f32c00
+Fl coef: 17.366556
+Coef add: 0x561be2f32c08
+Int coef: 328
+Spec. ext: 8.107122
+**********
+Specimen 47
+Coef add: 0x561be2f32a80
+Fl coef: 14.059967
+Coef add: 0x561be2f32a88
+Int coef: 381
+Spec. ext: 8.066652
+**********
+Specimen 14
+Coef add: 0x561be2f32660
+Fl coef: 17.311781
+Coef add: 0x561be2f32668
+Int coef: 404
+Spec. ext: 8.064363
+**********
+Specimen 41
+Coef add: 0x561be2f329c0
+Fl coef: 14.962088
+Coef add: 0x561be2f329c8
+Int coef: 100
+Spec. ext: 7.855058
+**********
+Specimen 98
+Coef add: 0x561be2f330e0
+Fl coef: 14.029777
+Coef add: 0x561be2f330e8
+Int coef: 382
+Spec. ext: 7.760930
+**********
+Specimen 44
+Coef add: 0x561be2f32a20
+Fl coef: 15.556072
+Coef add: 0x561be2f32a28
+Int coef: 323
+Spec. ext: 7.544256
+**********
+Specimen 1
+Coef add: 0x561be2f324c0
+Fl coef: 14.375269
+Coef add: 0x561be2f324c8
+Int coef: 300
+Spec. ext: 7.460514
+**********
+Specimen 50
+Coef add: 0x561be2f32ae0
+Fl coef: 16.573328
+Coef add: 0x561be2f32ae8
+Int coef: 134
+Spec. ext: 7.393304
+**********
+Specimen 90
+Coef add: 0x561be2f32fe0
+Fl coef: 13.098545
+Coef add: 0x561be2f32fe8
+Int coef: 329
+Spec. ext: 7.118668
+**********
+Specimen 33
+Coef add: 0x561be2f328c0
+Fl coef: 16.046173
+Coef add: 0x561be2f328c8
+Int coef: 45
+Spec. ext: 6.807337
+**********
+Specimen 61
+Coef add: 0x561be2f32c40
+Fl coef: 15.839422
+Coef add: 0x561be2f32c48
+Int coef: 286
+Spec. ext: 6.778110
+**********
+Specimen 57
+Coef add: 0x561be2f32bc0
+Fl coef: 17.333803
+Coef add: 0x561be2f32bc8
+Int coef: 81
+Spec. ext: 6.512850
+**********
+Specimen 18
+Coef add: 0x561be2f326e0
+Fl coef: 17.947649
+Coef add: 0x561be2f326e8
+Int coef: 97
+Spec. ext: 6.492551
+**********
+Specimen 38
+Coef add: 0x561be2f32960
+Fl coef: 13.499283
+Coef add: 0x561be2f32968
+Int coef: 353
+Spec. ext: 6.373145
+**********
+Specimen 9
+Coef add: 0x561be2f325c0
+Fl coef: 12.647693
+Coef add: 0x561be2f325c8
+Int coef: 373
+Spec. ext: 6.256107
+**********
+Specimen 32
+Coef add: 0x561be2f328a0
+Fl coef: 17.167187
+Coef add: 0x561be2f328a8
+Int coef: 317
+Spec. ext: 6.122853
+**********
+Specimen 85
+Coef add: 0x561be2f32f40
+Fl coef: 13.840376
+Coef add: 0x561be2f32f48
+Int coef: 391
+Spec. ext: 6.075554
+**********
+Specimen 83
+Coef add: 0x561be2f32f00
+Fl coef: 17.745598
+Coef add: 0x561be2f32f08
+Int coef: 65
+Spec. ext: 6.066714
+**********
+Specimen 40
+Coef add: 0x561be2f329a0
+Fl coef: 14.499887
+Coef add: 0x561be2f329a8
+Int coef: 267
+Spec. ext: 5.610909
+**********
+Specimen 56
+Coef add: 0x561be2f32ba0
+Fl coef: 15.335432
+Coef add: 0x561be2f32ba8
+Int coef: 153
+Spec. ext: 5.550298
+**********
+Specimen 16
+Coef add: 0x561be2f326a0
+Fl coef: 16.503895
+Coef add: 0x561be2f326a8
+Int coef: 58
+Spec. ext: 5.507687
+**********
+Specimen 73
+Coef add: 0x561be2f32dc0
+Fl coef: 17.416067
+Coef add: 0x561be2f32dc8
+Int coef: 291
+Spec. ext: 5.502750
+**********
+Specimen 21
+Coef add: 0x561be2f32740
+Fl coef: 16.425365
+Coef add: 0x561be2f32748
+Int coef: 48
+Spec. ext: 5.389120
+**********
+Specimen 24
+Coef add: 0x561be2f327a0
+Fl coef: 14.866475
+Coef add: 0x561be2f327a8
+Int coef: 490
+Spec. ext: 5.275588
+**********
+Specimen 26
+Coef add: 0x561be2f327e0
+Fl coef: 17.608532
+Coef add: 0x561be2f327e8
+Int coef: 489
+Spec. ext: 5.104871
+**********
+Specimen 27
+Coef add: 0x561be2f32800
+Fl coef: 16.598318
+Coef add: 0x561be2f32808
+Int coef: 290
+Spec. ext: 4.792555
+**********
+Specimen 53
+Coef add: 0x561be2f32b40
+Fl coef: 13.031171
+Coef add: 0x561be2f32b48
+Int coef: 297
+Spec. ext: 4.725043
+**********
+Specimen 89
+Coef add: 0x561be2f32fc0
+Fl coef: 16.763004
+Coef add: 0x561be2f32fc8
+Int coef: 303
+Spec. ext: 4.703131
+**********
+Specimen 49
+Coef add: 0x561be2f32ac0
+Fl coef: 14.917704
+Coef add: 0x561be2f32ac8
+Int coef: 194
+Spec. ext: 4.619392
+**********
+Specimen 42
+Coef add: 0x561be2f329e0
+Fl coef: 12.656609
+Coef add: 0x561be2f329e8
+Int coef: 133
+Spec. ext: 4.445197
+**********
+Specimen 81
+Coef add: 0x561be2f32ec0
+Fl coef: 13.365385
+Coef add: 0x561be2f32ec8
+Int coef: 305
+Spec. ext: 4.144337
+**********
+Specimen 91
+Coef add: 0x561be2f33000
+Fl coef: 15.299901
+Coef add: 0x561be2f33008
+Int coef: 61
+Spec. ext: 4.121372
+**********
+Specimen 86
+Coef add: 0x561be2f32f60
+Fl coef: 17.955141
+Coef add: 0x561be2f32f68
+Int coef: 290
+Spec. ext: 4.102089
+**********
+Specimen 96
+Coef add: 0x561be2f330a0
+Fl coef: 13.481947
+Coef add: 0x561be2f330a8
+Int coef: 83
+Spec. ext: 3.971805
+**********
+Specimen 64
+Coef add: 0x561be2f32ca0
+Fl coef: 13.885595
+Coef add: 0x561be2f32ca8
+Int coef: 77
+Spec. ext: 3.762374
+**********
+Specimen 82
+Coef add: 0x561be2f32ee0
+Fl coef: 14.115105
+Coef add: 0x561be2f32ee8
+Int coef: 44
+Spec. ext: 3.165072
+**********
+Specimen 72
+Coef add: 0x561be2f32da0
+Fl coef: 13.176018
+Coef add: 0x561be2f32da8
+Int coef: 475
+Spec. ext: 3.163956
+**********
+Specimen 35
+Coef add: 0x561be2f32900
+Fl coef: 11.421737
+Coef add: 0x561be2f32908
+Int coef: 114
+Spec. ext: 3.032925
+**********
+Specimen 25
+Coef add: 0x561be2f327c0
+Fl coef: 12.304261
+Coef add: 0x561be2f327c8
+Int coef: 357
+Spec. ext: 2.945386
+**********
+Specimen 37
+Coef add: 0x561be2f32940
+Fl coef: 11.852194
+Coef add: 0x561be2f32948
+Int coef: 394
+Spec. ext: 2.520023
+**********
+Specimen 71
+Coef add: 0x561be2f32d80
+Fl coef: 17.136261
+Coef add: 0x561be2f32d88
+Int coef: 272
+Spec. ext: 2.504614
+**********
+Specimen 5
+Coef add: 0x561be2f32540
+Fl coef: 11.609987
+Coef add: 0x561be2f32548
+Int coef: 100
+Spec. ext: 2.476454
+**********
+Specimen 94
+Coef add: 0x561be2f33060
+Fl coef: 16.592812
+Coef add: 0x561be2f33068
+Int coef: 222
+Spec. ext: 2.475298
+**********
+Specimen 30
+Coef add: 0x561be2f32860
+Fl coef: 17.031559
+Coef add: 0x561be2f32868
+Int coef: 272
+Spec. ext: 2.079321
+**********
+Specimen 93
+Coef add: 0x561be2f33040
+Fl coef: 12.697765
+Coef add: 0x561be2f33048
+Int coef: 473
+Spec. ext: 1.746445
+**********
+Specimen 88
+Coef add: 0x561be2f32fa0
+Fl coef: 13.174179
+Coef add: 0x561be2f32fa8
+Int coef: 218
+Spec. ext: 1.639057
+**********
+Specimen 15
+Coef add: 0x561be2f32680
+Fl coef: 11.591544
+Coef add: 0x561be2f32688
+Int coef: 80
+Spec. ext: 1.611065
+**********
+Specimen 66
+Coef add: 0x561be2f32ce0
+Fl coef: 12.714646
+Coef add: 0x561be2f32ce8
+Int coef: 275
+Spec. ext: 1.486507
+**********
+Specimen 67
+Coef add: 0x561be2f32d00
+Fl coef: 13.541756
+Coef add: 0x561be2f32d08
+Int coef: 470
+Spec. ext: 1.459421
+**********
+Specimen 43
+Coef add: 0x561be2f32a00
+Fl coef: 13.378510
+Coef add: 0x561be2f32a08
+Int coef: 270
+Spec. ext: 1.444865
+**********
+Specimen 76
+Coef add: 0x561be2f32e20
+Fl coef: 11.384457
+Coef add: 0x561be2f32e28
+Int coef: 74
+Spec. ext: 1.401249
+**********
+Specimen 8
+Coef add: 0x561be2f325a0
+Fl coef: 11.561543
+Coef add: 0x561be2f325a8
+Int coef: 304
+Spec. ext: 1.357815
+**********
+Specimen 63
+Coef add: 0x561be2f32c80
+Fl coef: 11.292910
+Coef add: 0x561be2f32c88
+Int coef: 160
+Spec. ext: 1.095050
+**********
+Specimen 17
+Coef add: 0x561be2f326c0
+Fl coef: 16.925180
+Coef add: 0x561be2f326c8
+Int coef: 226
+Spec. ext: 0.778518
+**********
+Specimen 2
+Coef add: 0x561be2f324e0
+Fl coef: 17.014614
+Coef add: 0x561be2f324e8
+Int coef: 27
+Spec. ext: 0.777471
+**********
+Specimen 52
+Coef add: 0x561be2f32b20
+Fl coef: 13.343068
+Coef add: 0x561be2f32b28
+Int coef: 242
+Spec. ext: 0.587735
+**********
+Specimen 74
+Coef add: 0x561be2f32de0
+Fl coef: 12.514772
+Coef add: 0x561be2f32de8
+Int coef: 288
+Spec. ext: 0.399989
+**********
+Specimen 60
+Coef add: 0x561be2f32c20
+Fl coef: 12.125722
+Coef add: 0x561be2f32c28
+Int coef: 97
+Spec. ext: 0.358680
+**********
+Specimen 39
+Coef add: 0x561be2f32980
+Fl coef: 11.217703
+Coef add: 0x561be2f32988
+Int coef: 442
+Spec. ext: 0.277616
+**********
+Specimen 79
+Coef add: 0x561be2f32e80
+Fl coef: 12.278028
+Coef add: 0x561be2f32e88
+Int coef: 83
+Spec. ext: 0.210344
+**********
+Specimen 58
+Coef add: 0x561be2f32be0
+Fl coef: 16.807861
+Coef add: 0x561be2f32be8
+Int coef: 13
+Spec. ext: 0.050608
+**********
+Specimen 29
+Coef add: 0x561be2f32840
+Fl coef: 12.791919
+Coef add: 0x561be2f32848
+Int coef: 16
+Spec. ext: -0.015121
+**********
+Specimen 87
+Coef add: 0x561be2f32f80
+Fl coef: 13.731989
+Coef add: 0x561be2f32f88
+Int coef: 255
+Spec. ext: -0.293882
+**********
+Specimen 12
+Coef add: 0x561be2f32620
+Fl coef: 16.878624
+Coef add: 0x561be2f32628
+Int coef: 3
+Spec. ext: -0.579537
+**********
+Specimen 11
+Coef add: 0x561be2f32600
+Fl coef: 11.438906
+Coef add: 0x561be2f32608
+Int coef: 192
+Spec. ext: -0.624047
+**********
+Specimen 4
+Coef add: 0x561be2f32520
+Fl coef: 12.254549
+Coef add: 0x561be2f32528
+Int coef: 298
+Spec. ext: -0.935252
+**********
+Specimen 3
+Coef add: 0x561be2f32500
+Fl coef: 10.952297
+Coef add: 0x561be2f32508
+Int coef: 146
+Spec. ext: -0.955973
+**********
+Specimen 31
+Coef add: 0x561be2f32880
+Fl coef: 10.232664
+Coef add: 0x561be2f32888
+Int coef: 323
+Spec. ext: -1.076844
+**********
+Specimen 34
+Coef add: 0x561be2f328e0
+Fl coef: 11.184961
+Coef add: 0x561be2f328e8
+Int coef: 469
+Spec. ext: -1.287055
+**********
+Specimen 65
+Coef add: 0x561be2f32cc0
+Fl coef: 10.784182
+Coef add: 0x561be2f32cc8
+Int coef: 111
+Spec. ext: -1.648643
+**********
+Specimen 28
+Coef add: 0x561be2f32820
+Fl coef: 12.031124
+Coef add: 0x561be2f32828
+Int coef: 175
+Spec. ext: -1.789355
+**********
+Specimen 68
+Coef add: 0x561be2f32d20
+Fl coef: 12.636375
+Coef add: 0x561be2f32d28
+Int coef: 5
+Spec. ext: -1.945749
+**********
+Specimen 45
+Coef add: 0x561be2f32a40
+Fl coef: 11.968390
+Coef add: 0x561be2f32a48
+Int coef: 284
+Spec. ext: -2.201531
+**********
+Specimen 97
+Coef add: 0x561be2f330c0
+Fl coef: 11.307457
+Coef add: 0x561be2f330c8
+Int coef: 243
+Spec. ext: -2.408121
+**********
+Specimen 19
+Coef add: 0x561be2f32700
+Fl coef: 12.513361
+Coef add: 0x561be2f32708
+Int coef: 6
+Spec. ext: -3.187037
+**********
+Specimen 51
+Coef add: 0x561be2f32b00
+Fl coef: 11.837076
+Coef add: 0x561be2f32b08
+Int coef: 215
+Spec. ext: -3.292008
+**********
+Specimen 10
+Coef add: 0x561be2f325e0
+Fl coef: 11.462805
+Coef add: 0x561be2f325e8
+Int coef: 1
+Spec. ext: -3.525005
+**********
+Specimen 95
+Coef add: 0x561be2f33080
+Fl coef: 10.488021
+Coef add: 0x561be2f33088
+Int coef: 166
+Spec. ext: -4.278139
+**********
+Specimen 55
+Coef add: 0x561be2f32b80
+Fl coef: 10.209543
+Coef add: 0x561be2f32b88
+Int coef: 478
+Spec. ext: -4.298177
+**********
+Specimen 7
+Coef add: 0x561be2f32580
+Fl coef: 12.077546
+Coef add: 0x561be2f32588
+Int coef: 239
+Spec. ext: -4.470329
+**********
+Specimen 20
+Coef add: 0x561be2f32720
+Fl coef: 10.943506
+Coef add: 0x561be2f32728
+Int coef: 205
+Spec. ext: -4.681459
+**********
+Specimen 6
+Coef add: 0x561be2f32560
+Fl coef: 10.667233
+Coef add: 0x561be2f32568
+Int coef: 179
+Spec. ext: -5.056516
+**********
+Specimen 13
+Coef add: 0x561be2f32640
+Fl coef: 10.593984
+Coef add: 0x561be2f32648
+Int coef: 477
+Spec. ext: -5.835555
+**********
+Specimen 75
+Coef add: 0x561be2f32e00
+Fl coef: 10.732090
+Coef add: 0x561be2f32e08
+Int coef: 43
+Spec. ext: -5.943738
+**********
+Specimen 48
+Coef add: 0x561be2f32aa0
+Fl coef: 10.893571
+Coef add: 0x561be2f32aa8
+Int coef: 9
+Spec. ext: -7.008892
+**********
+PAR. COEF.: 17.745598 -- 17.366556
+FLOAT RES: 17.556076
+PAR. COEF.: 65.000000 -- 328.000000
+10001100000000000000000000000000 
+1000010000000000000000000000000010001100000000000000000000000000 
+INT RES 1: 49
+INT RES 2: 33
+----- SPEC ID: 150 ----
+COEF 1: 17.556076
+COEF 2: 0.000000
+EXT: 12.042067
+-----
+----- SPEC ID: 151 ----
+COEF 1: 17.556076
+COEF 2: 0.000000
+EXT: 11.361029
+-----
+PARENT ID: 83
+PARENT ID: 59
+PAR. COEF.: 14.402530 -- 14.375269
+FLOAT RES: 14.388899
+PAR. COEF.: 324.000000 -- 300.000000
+00000100000000000000000000000000 
+0000100000000000000000000000000000000100000000000000000000000000 
+INT RES 1: 32
+INT RES 2: 16
+----- SPEC ID: 152 ----
+COEF 1: 14.388899
+COEF 2: 0.000000
+EXT: 12.042067
+-----
+----- SPEC ID: 153 ----
+COEF 1: 14.388899
+COEF 2: 0.000000
+EXT: 11.361029
+-----
+PARENT ID: 80
+PARENT ID: 1
+PAR. COEF.: 17.521387 -- 14.402530
+FLOAT RES: 15.961958
+PAR. COEF.: 363.000000 -- 324.000000
+11000000000000000000000000000000 
+0000010000000000000000000000000011000000000000000000000000000000 
+INT RES 1: 3
+INT RES 2: 32
+----- SPEC ID: 154 ----
+COEF 1: 15.961958
+COEF 2: 0.000000
+EXT: 12.042067
+-----
+----- SPEC ID: 155 ----
+COEF 1: 15.961958
+COEF 2: 0.000000
+EXT: 11.361029
+-----
+PARENT ID: 100
+PARENT ID: 80
+PAR. COEF.: 16.118320 -- 17.311781
+FLOAT RES: 16.715050
+PAR. COEF.: 335.000000 -- 404.000000
+01001100000000000000000000000000 
+1000000000000000000000000000000001001100000000000000000000000000 
+INT RES 1: 50
+INT RES 2: 1
+----- SPEC ID: 156 ----
+COEF 1: 16.715050
+COEF 2: 0.000000
+EXT: 12.042067
+-----
+----- SPEC ID: 157 ----
+COEF 1: 16.715050
+COEF 2: 0.000000
+EXT: 11.361029
+-----
+PARENT ID: 99
+PARENT ID: 14
+PAR. COEF.: 14.602426 -- 15.335432
+FLOAT RES: 14.968929
+PAR. COEF.: 88.000000 -- 153.000000
+00000000000000000000000000000000 
+1000100000000000000000000000000000000000000000000000000000000000 
+INT RES 1: 0
+INT RES 2: 17
+----- SPEC ID: 158 ----
+COEF 1: 14.968929
+COEF 2: 0.000000
+EXT: 12.042067
+-----
+----- SPEC ID: 159 ----
+COEF 1: 14.968929
+COEF 2: 0.000000
+EXT: 11.361029
+-----
+PARENT ID: 92
+PARENT ID: 56
+PAR. COEF.: 16.213930 -- 17.608532
+FLOAT RES: 16.911232
+PAR. COEF.: 374.000000 -- 489.000000
+01000000000000000000000000000000 
+1000110000000000000000000000000001000000000000000000000000000000 
+INT RES 1: 2
+INT RES 2: 49
+----- SPEC ID: 160 ----
+COEF 1: 16.911232
+COEF 2: 0.000000
+EXT: 12.042067
+-----
+----- SPEC ID: 161 ----
+COEF 1: 16.911232
+COEF 2: 0.000000
+EXT: 11.361029
+-----
+PARENT ID: 69
+PARENT ID: 26
+PAR. COEF.: 17.333803 -- 14.792057
+FLOAT RES: 16.062931
+PAR. COEF.: 81.000000 -- 425.000000
+10001000000000000000000000000000 
+0000000000000000000000000000000010001000000000000000000000000000 
+INT RES 1: 17
+INT RES 2: 0
+----- SPEC ID: 162 ----
+COEF 1: 16.062931
+COEF 2: 0.000000
+EXT: 12.042067
+-----
+----- SPEC ID: 163 ----
+COEF 1: 16.062931
+COEF 2: 0.000000
+EXT: 11.361029
+-----
+PARENT ID: 57
+PARENT ID: 78
+PAR. COEF.: 16.213930 -- 14.970055
+FLOAT RES: 15.591992
+PAR. COEF.: 374.000000 -- 350.000000
+01000000000000000000000000000000 
+0100010000000000000000000000000001000000000000000000000000000000 
+INT RES 1: 2
+INT RES 2: 34
+----- SPEC ID: 164 ----
+COEF 1: 15.591992
+COEF 2: 0.000000
+EXT: 12.042067
+-----
+----- SPEC ID: 165 ----
+COEF 1: 15.591992
+COEF 2: 0.000000
+EXT: 11.361029
+-----
+PARENT ID: 69
+PARENT ID: 46
+PAR. COEF.: 16.598318 -- 16.118320
+FLOAT RES: 16.358318
+PAR. COEF.: 290.000000 -- 335.000000
+01000100000000000000000000000000 
+0100110000000000000000000000000001000100000000000000000000000000 
+INT RES 1: 34
+INT RES 2: 50
+----- SPEC ID: 166 ----
+COEF 1: 16.358318
+COEF 2: 0.000000
+EXT: 12.042067
+-----
+----- SPEC ID: 167 ----
+COEF 1: 16.358318
+COEF 2: 0.000000
+EXT: 11.361029
+-----
+PARENT ID: 27
+PARENT ID: 9
